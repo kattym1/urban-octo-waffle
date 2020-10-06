@@ -1,0 +1,5 @@
+print("PY4E")
+hrs=input("Enter hours:")
+payxhrs=input("Enter rate per hours:")
+grosspay = float(hrs) * float(payxhrs)
+print("Pay:", grosspay)
